@@ -1,8 +1,8 @@
-package lessonJava;
+/*package lessonJava;
 
-/**
+*
  * program
- */
+
 public class program {
     public static void main(String[] args) {
         int i = 123;

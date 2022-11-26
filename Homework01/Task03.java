@@ -14,6 +14,7 @@ public class Task03 {
         int num1 = in.nextInt();
         System.out.print("Введите второе число: ");
         int num2 = in.nextInt();
+        in.close();
         if (command == 1){
             int result = num1 + num2;
             System.out.println(""+num1+"+"+num2+"="+result+"");
@@ -34,6 +35,5 @@ public class Task03 {
                 System.out.println("На 0 делить нельзя");
             }
         }
-        in.close();
     }
 }
