@@ -1,0 +1,24 @@
+но€б. 30, 2022 8:46:16 PM Homework02.Task02 bubbleSort
+INFO: [1, 3, 5, 0, 7, 9, 8]
+но€б. 30, 2022 8:46:16 PM Homework02.Task02 bubbleSort
+INFO: [1, 3, 5, 0, 7, 9, 8]
+но€б. 30, 2022 8:46:16 PM Homework02.Task02 bubbleSort
+INFO: [1, 3, 0, 5, 7, 9, 8]
+но€б. 30, 2022 8:46:16 PM Homework02.Task02 bubbleSort
+INFO: [1, 3, 0, 5, 7, 9, 8]
+но€б. 30, 2022 8:46:16 PM Homework02.Task02 bubbleSort
+INFO: [1, 3, 0, 5, 7, 9, 8]
+но€б. 30, 2022 8:46:16 PM Homework02.Task02 bubbleSort
+INFO: [1, 3, 0, 5, 7, 8, 9]
+но€б. 30, 2022 8:46:16 PM Homework02.Task02 bubbleSort
+INFO: [1, 3, 0, 5, 7, 8, 9]
+но€б. 30, 2022 8:46:16 PM Homework02.Task02 bubbleSort
+INFO: [1, 0, 3, 5, 7, 8, 9]
+но€б. 30, 2022 8:46:16 PM Homework02.Task02 bubbleSort
+INFO: [1, 0, 3, 5, 7, 8, 9]
+но€б. 30, 2022 8:46:16 PM Homework02.Task02 bubbleSort
+INFO: [1, 0, 3, 5, 7, 8, 9]
+но€б. 30, 2022 8:46:16 PM Homework02.Task02 bubbleSort
+INFO: [1, 0, 3, 5, 7, 8, 9]
+но€б. 30, 2022 8:46:16 PM Homework02.Task02 bubbleSort
+INFO: [1, 0, 3, 5, 7, 8, 9]
