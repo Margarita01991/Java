@@ -4,7 +4,7 @@ package Homework04;
 
 import java.util.*;
 
-public class Task1{
+public class Task01{
 	
 	private static LinkedList<Integer> lstReverse(LinkedList<Integer> lst) {
 		LinkedList<Integer> temp = new LinkedList<>();
