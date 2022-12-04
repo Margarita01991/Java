@@ -8,7 +8,7 @@ public class Task03 {
     public static void main(String[] args) {
 
         List<Integer> lst = Arrays.asList(5, 0, 7, 2, 9, -2, 4, 6);
-        int sum = 0;
+        float sum = 0;
         for (int i = 0; i < lst.size(); i++) {
             sum = sum + lst.get(i);
         }
