@@ -41,7 +41,7 @@ public class Task01_02 {
             }
         });
         for (var entry : entries) {
-            System.out.println(entry.getKey() + ": " + entry.getValue().size() + "повтор");
+            System.out.println(entry.getKey() + ": " + entry.getValue().size() + " повтор");
         }
     }
    
